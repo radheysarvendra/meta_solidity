@@ -25,7 +25,8 @@ This is a basic Solidity smart contract that defines a simple token called MyTok
   - Value: The number of tokens to mint.
 - The mint function increases the total supply _tot_supply and adds the minted tokens to the balance of the specified address.
 
-## Burning Tokens
+## Burning Tokens![image](https://github.com/radheysarvendra/meta_solidity/assets/118680969/c9cf0507-e33d-4f90-a3e6-ae019fedcc3a)
+
 
 - The contract also includes a burn function, which allows the destruction of existing tokens from a specific address.
 - It takes two parameters:
